@@ -1,0 +1,542 @@
+﻿idtarea;idsprint;senior01;senior02;senior03;senior04;junior01;junior02;junior03;junior04;junior05;totalsenior;totaljunior;numseniors;numjuniors;descripcion;numdocs;fecha;cumplimiento
+PPV-1;Sprint 1;20;0;0;0;20;20;0;0;0;20;40;1;2;"Debe incluir 
+
+La sección de datos del requerimiento en función del tipo de requerimiento y tipo de trámite 
+Envío de correo según especificaciones ";0;25/4/2022 22:25;NO
+PPV-3;Sprint 1;20;0;0;0;20;20;0;0;0;20;40;1;2;"Debe incluir las siguientes secciones  
+
+Datos Generales
+Fechas
+Datos Adicionales
+La sección de datos adicionales va en función del tipo de requerimiento y categoría  ";0;25/4/2022 22:25;NO
+PPV-7;Sprint 1;20;0;0;0;20;20;0;0;0;20;40;1;2;Los campos de la gestión de solicitudes van en función del tipo de requerimiento y tipo de trámite  ;0;25/4/2022 17:43;NO
+PPV-2;Sprint 2;13;0;0;0;13;0;0;0;0;13;13;1;2;X;3;6/5/2022 11:23;SI
+PPV-4;Sprint 2;5;0;0;0;5;0;0;0;0;5;5;1;1;X;3;9/5/2022 11:29;SI
+PPV-6;Sprint 2;3;0;0;0;3;0;0;0;0;3;3;1;1;X;3;9/5/2022 21:53;NO
+PPV-22;Sprint 2;20;0;0;0;20;0;0;0;0;20;20;1;1;X;0;9/5/2022 22:04;NO
+PPV-23;Sprint 2;5;0;0;0;5;0;0;0;0;5;5;1;1;X;0;9/5/2022 21:50;NO
+PPV-24;Sprint 2;5;0;0;0;5;0;0;0;0;5;5;1;1;X;1;5/5/2022 16:17;SI
+PPV-25;Sprint 2;5;0;0;0;5;0;0;0;0;5;5;1;1;X;3;5/5/2022 16:19;SI
+PPV-26;Sprint 2;8;0;0;0;8;0;0;0;0;8;8;1;1;Encapsulamiento de servicios de documentos;4;6/5/2022 17:25;SI
+PPV-8;Sprint 3;8;0;0;0;8;8;0;0;0;8;16;1;2;X;1;24/5/2022 23:11;NO
+PPV-27;Sprint 3;13;0;0;0;8;8;0;0;0;13;16;1;2;X;1;17/5/2022 17:14;SI
+PPV-28;Sprint 3;5;0;0;0;5;5;0;0;0;5;10;1;2;X;0;24/5/2022 23:05;NO
+PPV-29;Sprint 3;5;0;0;0;5;5;0;0;0;5;10;1;2;Los campos se mostrarán en el documento de la solicitud de forma dinámica en función del tipo de requerimiento y tipo de trámite  ;0;6/6/2022 20:47;NO
+PPV-30;Sprint 3;20;0;0;0;20;21;0;0;0;20;41;1;2;" Añadir solicitudes
+ Asociar documentos del trámite a la solicitud
+OpcionesAdjuntos";2;24/5/2022 23:18;NO
+PPV-31;Sprint 3;3;0;0;0;3;3;0;0;0;3;6;1;2;X;2;24/5/2022 22:55;NO
+PPV-33;Sprint 3;5;0;0;0;8;8;0;0;0;5;16;1;2;X;3;16/5/2022 10:00;SI
+PPV-34;Sprint 3;5;0;0;0;5;5;0;0;0;5;10;1;2;"se debe agregar las mismas consideraciones en la acción de ""Problema""";2;16/5/2022 10:44;SI
+PPV-37;Sprint 3;3;0;0;0;3;3;0;0;0;3;6;1;2;X;5;24/5/2022 23:25;NO
+PPV-17;Sprint 4;20;0;0;0;20;20;0;0;0;20;40;1;2;" Se deberá ampliar la sección de ""Gestión"" e incluir la tabla de ítems debajo de la tabla general de la solicitudes 
+ La tabla general de las solicitudes debe mostrar como máximo 4 registros  
+ Los campos a mostrarse son dinámicos en función del tipo de requerimiento y tipo de trámite  ";1;6/6/2022 23:29;NO
+PPV-18;Sprint 4;20;0;0;0;20;20;0;0;0;20;40;1;2;"La sección deberá mostrarse únicamente para el tipo de requerimiento ""Documento de importación"" y tipo de trámite ""Documento de acompañamiento"", así como para el tipo de requerimiento ""Documento de exportación""  Para los demás tipos de requerimiento no deberá mostrase dicha sección  Aplica únicamente para el documento del trámite ";2;6/6/2022 23:16;NO
+PPV-29;Sprint 4;5;0;0;0;5;5;0;0;0;5;10;1;2;Los campos se mostrarán en el documento de la solicitud de forma dinámica en función del tipo de requerimiento y tipo de trámite  ;0;6/6/2022 20:47;NO
+PPV-40;Sprint 4;2;0;0;0;2;2;0;0;0;2;4;1;2;" Se debe guardar el motivo de anulación en las observaciones del documento del trámite 
+ Tomar como referencia el modal de la acción ""Problema""";3;6/6/2022 11:33;SI
+PPV-41;Sprint 4;5;0;0;0;5;5;0;0;0;5;10;1;2;Incluye funcionalidad de la bandeja, así como la sección de Observaciones y Requerimientos ;0;2/6/2022 12:39;SI
+PPV-42;Sprint 4;13;0;0;0;13;13;0;0;0;13;26;1;2;Incluye 3 perfiles, y 3 pestañas para cada perfil  Requerimientos, Proceso y Pendientes  ;5;6/6/2022 21:29;NO
+PPV-43;Sprint 4;5;0;0;0;5;5;0;0;0;5;10;1;2;Se debe mostrar los documentos adjuntos a la solicitud así como los documentos asociados desde el documento del trámite  ;4;2/6/2022 12:29;SI
+PPV-5;Sprint 5;13;13;0;0;13;21;0;0;0;26;34;2;2;X;0;18/7/2022 23:52;NO
+PPV-10;Sprint 5;13;13;0;0;13;13;0;0;0;26;26;2;2;X;4;20/6/2022 23:07;NO
+PPV-15;Sprint 5;13;13;0;0;8;13;0;0;0;26;21;2;2;X;4;20/6/2022 22:45;NO
+PPV-46;Sprint 5;13;13;0;0;8;13;0;0;0;26;21;2;2;X;1;20/6/2022 23:50;NO
+PPV-48;Sprint 5;13;13;0;0;13;8;0;0;0;26;21;2;2;X;0;20/6/2022 21:43;NO
+PPV-49;Sprint 5;5;5;0;0;5;5;0;0;0;10;10;2;2;X;3;20/6/2022 23:32;NO
+PPV-50;Sprint 5;3;3;0;0;3;3;0;0;0;6;6;2;2;X;4;20/6/2022 23:32;NO
+PPV-51;Sprint 5;3;3;0;0;3;3;0;0;0;6;6;2;2;X;5;20/6/2022 23:32;NO
+PPV-52;Sprint 5;3;3;0;0;3;3;0;0;0;6;6;2;2;X;2;20/6/2022 23:32;NO
+PPV-5;Sprint 7;13;13;0;0;0;13;0;0;0;26;13;2;1;X;0;18/7/2022 23:52;NO
+PPV-60;Sprint 7;5;3;0;0;0;3;0;0;0;8;3;2;1;X;3;18/7/2022 20:18;NO
+PPV-61;Sprint 7;8;13;0;0;0;13;0;0;0;21;13;2;1;" Se requiere crear un tipo de documento en la sección de documentos generados  El tipo de documento ""SOLICITUD APROBADA"" 
+ Incluir el campo de ""Fecha vigencia"" cuando el estado es ""AUCP ENVIADA A LA ADUANA""
+ Agregar en el panel de observaciones de la solicitud aquellas que se generen en la derivación de los estados  SUBSANACION REQUERIDA, SUBSANACION ENVIADA, AUCP ENVIADO A LA ADUANA
+ Debe validar que al seleccionar el estado ""AUCP ENVIADO A LA ADUANA"" se encuentre el tipo de documento adjunto  ";4;18/7/2022 23:55;NO
+PPV-57;Sprint 7;8;8;0;0;0;8;0;0;0;16;8;2;1;X;0;18/7/2022 23:30;NO
+PPV-64;Sprint 7;3;3;0;0;0;3;0;0;0;6;3;2;1;X;0;18/7/2022 23:58;NO
+PPV-63;Sprint 7;13;13;0;0;0;13;0;0;0;26;13;2;1;X;2;18/7/2022 23:25;NO
+PPV-65;Sprint 7;13;0;0;0;0;0;0;0;0;13;0;1;0;X;0;18/7/2022 23:56;NO
+PPV-67;Sprint 8;13;21;0;0;0;13;0;0;0;34;13;2;1;" Crear tipo de requerimiento
+ Replicar orden de EchoLogistics a Dobra con tipo PE
+ Mapear etapas de GN con embarque parcial a las etapas del tipo PE en Dobra  
+ Validar que si es tipo PE permita modificar en dobra 
+ Replicar número de trámite de EchoLogistics a  Dobra en el campo de ""Producto""  
+ PPV 64";0;24/7/2022 16:12;SI
+PPV-69;Sprint 8;5;5;0;0;0;5;0;0;0;10;5;2;1;Mostrar el modal con los estados de la solicitud en el ícono    de la bandeja de solicitudes  ;4;29/7/2022 9:15;SI
+PPV-66;Sprint 8;5;5;0;0;0;8;0;0;0;10;8;2;1;Incluye pestaña de requerimiento, proceso y pendientes ;0;1/8/2022 23:57;NO
+PPV-12;Sprint 8;8;8;0;0;0;8;0;0;0;16;8;2;1;Aplica a todos los perfiles, y todas las pestañas  ;0;1/8/2022 23:57;NO
+PPV-68;Sprint 8;3;3;0;0;0;3;0;0;0;6;3;2;1;X;2;1/8/2022 22:50;NO
+PPV-45;Sprint 8;5;5;0;0;0;5;0;0;0;10;5;2;1;X;11;1/8/2022 23:34;NO
+PPV-70;Sprint 8;13;13;0;0;0;13;0;0;0;26;13;2;1;X;0;1/8/2022 23:57;NO
+PPV-16;Sprint 8;20;20;0;0;0;20;0;0;0;40;20;2;1;" Se puede generar la acción únicamente cuando el estado de la solicitud sea ""SUBSANACIÓN REQUERIDA"" 
+ Se debe generar documento PDF y almacenarse en la sección de Documentos generados de la solicitud  
+ Se debe agregar identificador (ícono) en la bandeja de solicitudes cuando se genere la acción y cuando se haya realizado la subsanación  
+ Se considera como finalizada la acción cuando el estado de solicitud se derive hacia ""SUBSANACIÓN ENVIADA""";0;1/8/2022 23:57;NO
+PPV-13;Sprint 9;8;13;0;0;0;13;0;0;0;21;13;2;1;X;24;15/8/2022 23:37;NO
+PPV-53;Sprint 9;13;8;0;0;0;8;0;0;0;21;8;2;1;X;0;15/8/2022 22:18;NO
+PPV-36;Sprint 9;8;21;0;0;0;13;0;0;0;29;13;2;1;X;13;15/8/2022 21:15;NO
+PPV-73;Sprint 9;3;3;0;0;0;3;0;0;0;6;3;2;1;"No incluye  
+
+Documentación completa
+Generar nota de pedido
+Errores en el trámite
+Generar DJI
+ 
+
+Se debe cambiar  ""Ir al trámite"" por la opción ""Ir a la solicitud""
+";1;15/8/2022 23:37;NO
+PPV-35;Sprint 9;8;13;0;0;0;8;0;0;0;21;8;2;1;X;11;15/8/2022 21:15;NO
+PPV-75;Sprint 9;13;0;0;0;0;0;0;0;0;13;0;1;0;X;0;15/8/2022 23:37;NO
+PPV-71;Sprint 9;13;13;0;0;0;13;0;0;0;26;13;2;1;X;4;15/8/2022 23:25;NO
+PPV-107;Sprint 11;8;0;0;0;0;8;8;8;0;8;24;1;3;X;0;19/9/2022 16:06;SI
+PPV-106;Sprint 11;20;0;0;0;0;20;20;20;0;20;60;1;3;X;1;19/9/2022 16:06;SI
+PPV-98;Sprint 11;3;0;0;0;0;3;3;2;0;3;8;1;3;X;0;8/9/2022 14:49;SI
+PPV-96;Sprint 11;5;0;0;0;0;8;13;8;0;5;29;1;3;X;0;8/9/2022 14:49;SI
+PPV-81;Sprint 11;8;0;0;0;0;8;8;8;0;8;24;1;3;X;0;19/9/2022 23:50;NO
+PPV-79;Sprint 11;3;0;0;0;0;5;5;3;0;3;13;1;3;X;2;16/9/2022 9:44;SI
+PPV-77;Sprint 11;13;0;0;0;0;21;13;21;0;13;55;1;3;X;2;12/9/2022 14:50;SI
+PPV-74;Sprint 11;13;0;0;0;0;13;13;13;0;13;39;1;3;X;2;15/9/2022 16:58;SI
+PPV-32;Sprint 11;5;0;0;0;0;5;8;5;0;5;18;1;3;X;2;16/9/2022 16:35;SI
+PPV-A;Sprint 11;30;0;0;0;0;30;30;30;0;30;90;1;3;;;;SI
+PPV-114;Sprint 12;8;0;0;0;0;8;8;13;0;8;29;1;3;X;0;23/9/2022 17:27;SI
+PPV-97;Sprint 12;5;0;0;0;0;3;8;8;0;5;19;1;3;Se debe considerar que al regresar hacia ANALISIS se debe eliminar la asignación y validar si cuenta con trámites activos  De ser el caso se debe regresar con dicha solicitud en SB;0;30/9/2022 17:33;SI
+PPV-115;Sprint 12;8;0;0;0;0;8;8;8;0;8;24;1;3;X;3;3/10/2022 23:06;NO
+PPV-62;Sprint 12;13;0;0;0;0;13;13;8;0;13;34;1;3;X;0;3/10/2022 20:50;NO
+PPV-80;Sprint 12;3;0;0;0;0;3;3;3;0;3;9;1;3;"Debe permitir adjuntar el documento de “Solicitud aprobada en archivo tipo PDF y XML” una sola vez, es decir 1 documento de solicitud aprobada en PDF y 1 Documento de solicitud aprobada en XML 
+En la sección “Operaciones, pestaña análisis, pestaña Tipo de Documentos” Crear un nuevo tipo de documento denominado “Autorización sanitaria” 
+Cuando la “Entidad” de la licencia sea “AGROCALIDAD” debe adjuntar el documento de “Autorización Sanitaria en archivo tipo PDF”  Se debe cargar una sola vez, es decir un documento de autorización sanitaria PDF 
+Debe permitir adjuntar el documento de “Solicitud aprobada” y “Autorización Sanitaria” únicamente en la etapa de “ENTIDAD” de la solicitud 
+Los documentos cargados “SOLICITUD APROBADA en archivo PDF y XML” Y “AUTORIZACIÓN SANITARIA (en caso de que aplique) en PDF”  Pueden ser modificables, es decir se pueden eliminar y volver a cargarlos en documento de la solicitud  Por tal motivo debe actualizarse en el modal de consulta de la solicitud 
+Una vez que elimina un documento, se debe generar una observación en el documento de la solicitud especificando quien lo elimina, fecha y hora 
+Los documentos cargados “SOLICITUD APROBADA en archivo PDF y XML” Y “AUTORIZACIÓN SANITARIA (en caso de que aplique) en PDF”  Pueden ser modificables, es decir se pueden eliminar y volver a cargarlos en documento de la solicitud  Por tal motivo debe actualizarse en el modal de consulta de la solicitud 
+Una vez que elimina un documento, se debe generar una observación en el documento de la solicitud especificando quien lo elimina, fecha y hora 
+Documentación Completa  Cuando se elimine los archivos se debe desactivar ";3;28/9/2022 10:37;SI
+PPV-119;Sprint 12;20;0;0;0;0;20;13;13;0;20;46;1;3;X;0;23/9/2022 9:27;SI
+PPV-B;Sprint 12;20;0;0;0;0;13;13;13;0;20;39;1;3;;;;SI
+PPV-C;Sprint 12;8;0;0;0;0;8;8;8;0;8;24;1;3;;;;SI
+PPV-D;Sprint 12;13;0;0;0;0;13;13;13;0;13;39;1;3;;;;SI
+PPV-E;Sprint 12;3;0;0;0;0;3;3;3;0;3;9;1;3;;;;SI
+PPV-19;Sprint 13;8;0;13;0;0;0;13;13;0;21;26;2;2;X;3;17/10/2022 23:47;NO
+PPV-20;Sprint 13;13;0;8;0;0;0;13;8;0;21;21;2;2;X;2;17/10/2022 23:50;NO
+PPV-99;Sprint 13;20;0;13;0;0;0;13;13;0;33;26;2;2;X;0;13/10/2022 17:07;SI
+PPV-122;Sprint 13;8;0;8;0;0;0;8;8;0;16;16;2;2;X;0;12/10/2022 15:17;SI
+PPV-123;Sprint 13;13;0;13;0;0;0;8;8;0;26;16;2;2;X;0;12/10/2022 15:58;SI
+PPV-55;Sprint 13;8;0;13;0;0;0;13;13;0;21;26;2;2;No se muestra el nombre del usuario asignado ni la fecha de asignación en la bandeja de asignación, para ningún perfil ;1;17/10/2022 15:34;SI
+PPV-41;Sprint 13;5;0;8;0;0;0;8;5;0;13;13;2;2;Mantenedor base mrn;0;17/10/2022 14:34;SI
+PBA-8;Sprint2;0;0;8;0;0;0;0;0;8;8;8;1;1;"Consideraciones 
+Pueden haber N cantidad de subpartidas asignadas a un codigo liberatorio 
+Se estima alrededor de 120 códigos liberatorios
+En alguna casos el codigo liberatorio aplica para todas las subpartidas 
+Se necesita paginación por la cantidad de registros   Funcionalidad Selección de Columnas 
+Modal edición   Los campos ""Subpartida y Codigo Liberatorio"" deben estar cargados automáticamente, ser fijos y no editables   los demás campos si   
+Modal Eliminar   Debe eliminar todo un registro 
+Modal añadir    Inicialmente debe mostrarme un modal / permitir registrar manualmente mi subpartida y en una lista desplegable me muestre todos los codigos liberatorios existentes a seleccionar , posterior en la parte inferior incluir el tipo de preferencia similar al modal editar  
+Importar   Necesario para la carga que estén todos los campos llenos y en casos especiales no necesario el Pais de Origen   Aplicar la carga en función a la selección de columnas 
+Exportar   La descarga de toda la data en función a la selección de Columnas ";3;20/7/2022 21:22;NO
+PBA-9;Sprint2;0;0;5;0;0;0;0;0;3;5;3;1;1;"Añadir 
+
+Uso exclusivo para registrar las quincenas 
+Al dar clic en añadir el único campo editable es el cif referencial 
+La fecha de aplicación Cif se actualiza, dependiendo de la quincena antes registrada 
+Plantilla 
+
+Al dar clic en plantilla, me debe permitir elegir el periodo a descargar aplicando mes/año 
+La plantilla descargada debe reflejarme el rango de fechas antes seleccionada con el listado de los 13 productos aprobados 
+Importar 
+
+La fecha de emisión debe ser la misma para los 13 productos incluidos en el mantenedor
+La fecha de vigencia debe ser la misma para los 13 productos incluidos en el mantenedor
+En caso de haber una diferencia de fechas tanto en la emisión/vigencia no debe permitirme importar el mantenedor y mostrará un mensaje indicando que existe un error
+Antes de efectuar el importe de actualización del periodo se mostrará un mensaje indicando que ya existe un periodo anual vigente y si está de acuerdo en actualizarlo en base a las nuevas fechas
+Si elimino uno de los productos aprobados, se realizará el importe no considerando el item eliminado, en caso de que dicho item tenga antes registrado un valor se mantendrá 
+Si agrego un producto que no corresponde a los 13 aprobados, no será considerado dentro del importe 
+Exportar 
+
+La plantilla a descargar debe tener el listado de los 13 productos indicados con el periodo vigente establecido ";1;20/7/2022 21:22;NO
+PBA-10;Sprint2;0;0;13;0;0;0;0;0;13;13;13;1;1;A continuación se muestra el orden de las columnas a mostrarse en el front del mantenedor de exoneraciones ;1;20/7/2022 21:22;NO
+PBA-11;Sprint2;0;0;5;0;0;0;0;0;5;5;5;1;1;"Estructura de restricciones
+
+Las restricciones se muestran por subpartida y TNAN  Cuando se seleccione un TNAN de la sección 2 (Detalle Arancel) automáticamente se debe mostrar esta sección 
+La tabla debe contener máximo 6 registros 
+En este bloque se muestran 2 tablas 
+Tabla Restricciones
+Tabla comercialización
+Se muestra información en la tabla de comercialización cuando el campo tipo de documento es “comercialización” ";3;20/7/2022 21:22;NO
+PBA-14;Sprint2;0;0;8;0;0;0;0;0;8;8;8;1;1;Creación de API's para creación, modificación y eliminación de exoneraciones;0;20/7/2022 21:22;NO
+PBA-15;Sprint2;0;0;5;0;0;0;0;0;5;5;5;1;1;Creación de API's para creación, modificación y eliminación de franja de precio;0;20/7/2022 21:22;NO
+PBA-16;Sprint2;0;0;5;0;0;0;0;0;5;5;5;1;1;Replicación del arancel a Dobra  General y tributos;1;"	20/jul/22 9:22 PM";NO
+PBA-24;Sprint2;0;0;5;0;0;0;0;0;0;5;0;1;;Integración de front y backend de arancel y restricciones;0;20/7/2022 21:22;NO
+PBA-26;Sprint2;0;0;5;0;0;0;0;0;0;5;0;1;;Integración a servidor de pruebas sprint 2;0;20/7/2022 21:22;NO
+PBA-37;Sprint4;0;0;8;0;0;0;0;0;13;8;13;1;1;"Agregar dentro de la estructura de arancel (PBA 1) los siguientes campos  Estos campos no deben mostrarse en el mantenedor pero si en modal de editar y añadir  
+
+
+
+Fecha Vigencia ADV
+Fecha Vigencia Específico (ADV)
+Fecha Vigencia ICE
+Fecha Vigencia Inc  ICE
+Fecha Vigencia Rango inicial (ICE)
+Fecha Vigencia Rango Final (ICE
+Fecha Vigencia ICE ADV
+Fecha Vigencia % ICE ADV
+Fecha Vigencia Específico (ICE)
+Fecha Vigencia Salvaguardia
+Fecha Vigencia Específico (Salv )
+Fecha Vigencia IRBP";0;"	17/ago/22 10:52 PM";SI
+PBA-13;Sprint4;0;0;5;0;0;0;0;0;13;5;13;1;1;Modal para editar  Mantenedor Arancel;0;17/8/2022 22:52;SI
+PBA-38;Sprint4;0;0;5;0;0;0;0;0;8;5;8;1;1;"Añadir y eliminar  Mantenedor Restricciones
+
+Agregar en el listado del campo ""Tipo/control"" los regimenes 
+No mostrar el campo de ""Código complementario"" en el mantenedor 
+Agregar en la estructura el campo de ""Tipo de Documento"" después de la columna ""Entidad""";;17/8/2022 10:52;SI
+PBA-34;Sprint4;0;0;5;0;0;0;0;0;3;5;3;1;1;Modal para editar  Restricciones;0;17/8/2022 10:52;SI
+PBA-39;Sprint4;0;0;8;0;0;0;0;0;5;8;5;1;1;"
+Funcionalidad de filtros, paginación y columnas fijas  Mantenedor Arance
+
+Paginación
+Filtro 
+Mantener columnas fijas de ""Subpartida"" y ""Cod  Suplementario"" ";0;17/8/2022 22:52;NO
+PBA-40;Sprint4;0;0;5;0;0;0;0;0;5;5;5;1;1;"Funcionalidad de filtros, paginación y columnas fijas  Mantenedor Restricciones     Paginación
+Filtro 
+Mantener columnas fijas de ""Subpartida"" y ""Cod  Suplementario"" ";;17/8/2022 22:52;SI
+PBA-41;Sprint4;0;0;5;0;0;0;0;0;5;5;5;1;1;Buscador múltiple de subpartidas  Mantenedores;0;17/8/2022 22:52;SI
+PBA-42;Sprint4;0;0;5;0;0;0;0;0;0;5;0;1;0;Integración a servidor de pruebas sprint 4 ;0;17/8/2022 22:52;SI
+PBA-75;Sprint7;3;0;0;0;0;0;0;3;0;3;3;1;1;Integración a servidor de pruebas sprint 7;;30/9/2022 21:48;NO
+PBA-74;Sprint7;8;0;0;0;0;0;0;8;0;8;8;1;1;"Mantenedores   Actualización Filtros & Paginación
+
+Aplica a   
+
+Arancel 
+Exoneraciones 
+Restricciones ";;;NO
+PBA-73;Sprint7;13;0;0;0;0;0;0;13;0;13;13;1;1;"
+Mantenedor Exoneraciones
+
+Exportar 
+Importar 
+Descargar plantilla 
+Novedades ( comodines) ";0;30/9/2022 21:48;NO
+PBA-72;Sprint7;13;0;0;0;0;0;0;13;0;13;13;1;1;"Novedades Mantenedor Restricciones
+
+Modificar estructura   Añadir , Editar , Importar , Exportar , Descargar plantilla , Tabla de mantenedor , Tabla regímenes , Tabla restricciones regímenes  
+
+Validar requisitos del producto";0;29/9/2022 15:11;SI
+PBA-71;Sprint7;8;8;0;0;0;0;0;0;0;16;0;2;0;Componente de resultado   subpartidas;0;30/9/2022 17:26;SI
+PBA-70;Sprint7;13;0;0;0;0;0;0;13;0;13;13;1;1;Migración / Importar   Subpartidas   Excel  Modificar la estructura de subpartida ;0;30/9/2022 21:48;SI
+PBA-69;Sprint7;8;0;0;0;0;0;0;8;0;8;8;1;1;"Buscador Partidas & Subpartidas
+
+Buscador similar al de papeles previos  ";0;30/9/2022 21:48;NO
+PBA-68;Sprint7;5;0;0;0;0;0;0;5;0;5;5;1;1;"Estructura Padre e Hijo
+
+Crear nueva tabla 
+Eliminar registros anteriores";;;NO
+PBA-18;Sprint7;8;0;0;0;0;0;0;8;0;8;8;1;1;"Pantalla de consulta  Sección de Tributos
+
+Estructura de mantenedor arancel
+Se deben mostrar los campos detallados en la siguiente tabla 
+
+Consideraciones generales 
+
+La tabla que se va a mostrar debe tener de 6 a 8 registros, si supera ese número debe tener un scroll vertical 
+Basta que un TNAN tenga un valor en un tributo para que aparezca la columna para todos los TNAN 
+Para valores nulos debe aparecer un guion y si todos los valores son nulos esa columna no se debe mostrar 
+Los TNAN se muestran en vertical y los tributos en horizontal ";0;30/9/2022 17:29;SI
+PBA-17;Sprint7;21;0;0;0;0;0;0;21;0;21;21;1;1;"Pantalla de consulta  Sección General
+
+El detalle del requerimiento se encuentra en el requisito del producto  ";;30/9/2022 17:29;SI
+PBA-81;Sprint8;8;0;0;0;0;0;0;8;0;8;8;1;1;"
+Servicio de Consulta   Sección Franja de Precios";;14/10/2022 14:49;SI
+PBA-80;Sprint8;13;0;0;0;0;0;0;13;0;13;13;1;1;Bitácora de cambios;;44852.86736;SI
+PBA-79;Sprint8;8;0;13;8;0;0;0;0;8;29;8;3;1;"De acuerdo a lo revisado en la review 
+
+Los hijos finales no deben aparecer en la partida padre 
+Alinear a la izquierda las partidas ";2;14/10/2022 15:49;SI
+PBA-78;Sprint8;8;0;8;13;0;0;0;0;13;29;13;3;1;Consulta Arancel   Sección Restricciones;4;18/10/2022 23:21;NO
+PBA-77;Sprint8;20;0;8;13;0;0;0;0;8;41;8;3;1;"Modal & Mantenedor   Exoneraciones
+
+De acuerdo a lo revisado en la review   
+
+Dentro de una exoneración puede ser al mismo pais, siempre y cuando sea diferente la naladisa o margen o tributo  
+Actualización de la tabla del mantenedor exoneraciones
+Incluir opción para visualizar mediante un modal todos los nombre de los paises seleccionados y asociados a una exoneración
+Incluir opción a todos en el campo subpartida cuando la exoneración este asociada a todas las subpartidas finales
+ajuste modal de editar y crear de exoneración con respecto a las nuevas estructuras pivotes
+ajuste del comportamiento y/o validaciones para guardar exoneraciones
+
+ 
+Agregar la tabla de tpci y tabla de paises para el nuevo mantenedor del cód lib agregando modal de edición y creación de tpci  opción de eliminar código liberatorio
+
+ 
+
+Mantenedor códigos liberatorios o TPCI
+Creacion de los recursos guardar, actualizar y eliminar lógico
+creación de tabla pivote tpci_paises
+actualizacion del idReplica del tpci operativoTyT a CAE_TPCI dobra
+actualización de los paises vinculados al tpci de operativoTyT en base a Dobra ";0;17/10/2022 15:45;SI
+PBA-76;Sprint8;8;0;13;8;0;0;0;0;13;29;13;3;1;"Estructura Pivote   Mantenedor Exoneraciones
+
+Creación de la estructura pivote exoneraciones_subpartidas y exoneraciones_paises(relacion uno a muchos) desvinculación de los campos idPais y idSubpartida de la estructura de exoneraciones(relación uno a uno)
+
+Creación de la relación y uso de las relaciones pivotes dentro del modelo exoneraciones
+ajuste en los recursos de crear, actualizar, guardado masivo, consulta general y especifica por identificador ";0;17/10/2022 15:45;SI
+PBA-23;Sprint8;5;0;8;5;0;0;0;0;8;18;8;3;1;Bitácora de cambios;0;18/10/2022 23:21;NO
+PBA-20;Sprint8;5;0;5;5;0;0;0;0;5;15;5;3;1;"Consulta Arancel   Sección Franja de Precios
+
+La descripción de esta actividad se encuentra en el requisito del producto 
+";0;18/10/2022 23:18;NO
+PBA-85;Sprint9;13;0;13;13;0;0;0;0;13;39;13;3;1;"Mantenedor Arancel   Añadir campo Techo SAFP
+**Se debe incluir en el mantenedor arancel el campo Techo SAFP ( Importante para el calculo de franja de precio) 
+
+Mantenedor Arancel   Aplica en Modal Añadir , Editar , Importar  , Exportar , Plantilla 
+
+PConsulta Franja de Precio  Debe mostrar dicho valor de acuerdo a lo cargado en el mantenedor arancel ";;31/10/2022 23:33;NO
+PBA-82;Sprint9;8;0;8;8;0;0;0;0;5;24;5;3;1;"Se debe incluir dentro de consulta Franja de Precios los N productos marcadores de cada vinculado 
+
+Modificación endpoint   Consulta Arancel
+Modal de visualización   Productos Marcadores
+Una subpartida debe tener 1 producto marcador y N productos vinculados 
+Si es un producto marcador, debe mostrarse solo en la pantalla mostrador y debe visualizarse de la siguiente manera 
+
+
+Si es un producto vinculado debe aparecer información de producto el marcador y vinculado
+Plantalla Consulta ( Aprobada) ";2;1/11/2022 22:27;SI
+PBA-67;Sprint9;20;0;20;20;0;0;0;0;20;60;20;3;1;"Replicación de Exoneraciones (DOBRA)
+Adjunto se encuentran los campos a replicar  ";2;1/11/2022 22:38;SI
+PBA-25;Sprint9;20;0;20;20;0;0;0;0;20;60;20;3;1;Replicación de subpartidas con TNAN (DOBRA);2;27/10/2022 9:37;SI
+PBA-19;Sprint9;13;0;13;13;0;0;0;0;13;39;13;3;1;"Pantalla de consulta  Sección de Exoneraciones
+Estructura de exoneraciones
+
+Se divide en 2 pestañas 
+Convenios
+Liberaciones
+La tabla que se va a mostrar debe tener de 6 a 8 registros, si supera ese número debe tener un scroll vertical 
+
+Los datos que contengan el código i (convenios) deben presentarse en la pestaña de convenios, caso contrario si contiene el código l (liberaciones) deben mostrarse en la pestaña liberaciones ";4;27/10/2022 9:37;SI
+TYT-523;Sprint18;2;0;3;5;0;0;0;0;5;10;5;3;1;En la pantalla de inicio seleccionar la opción ¿Olvido su contraseña?Luego Ingrese su usuario o correo electrónico y envié el correo con la url para restablecer su contraseña ;6;18/3/2022 0:04;SI
+TYT-521;Sprint18;5;0;8;3;0;0;0;0;5;16;5;3;1;"Menú de la bandeja de trámites la acción de ""derivar etapa"" y ""regresar etapa""";0;18/3/2022 17:12;SI
+TYT-520;Sprint18;13;0;13;13;0;0;0;0;13;39;13;3;1;"Implementación de WebSockets sobre ssl
+Se debe alertar al usuario cuando se haya realizado una acción en la bandeja  
+La alerta no debe desaparecer hasta que el usuario la cierre de forma manual  
+En la alerta debe contar con una acción para refrescar la información de la bandeja ";0;31/5/2022 16:40;SI
+TYT-519;Sprint18;8;0;13;8;0;0;0;0;8;29;8;3;1;"Validaciones de enviar respuesta en la derivación de etapa a ""POR ASIGNAR REVISOR""
+
+ Agregar las mismas validaciones de ""enviar respuesta"" en la derivación de etapa a ""POR ASIGNAR REVISOR"" 
+Se debe validar que tenga requisitos ingresados si la columna de ""restricción importación"" es Si  En el caso de no tener requisitos ingresados se debe mostrar mensaje  Adicional debe validar que todos los ítems cuenten con subpartida y TNAN  ";0;18/3/2022 0:03;SI
+TYT-518;Sprint18;8;0;8;8;0;0;0;0;8;24;8;3;1;"Gestión de asignación de trámites del revisor de criterios técnicos y control interno
+La acción de eliminar asignación debe validarse por rol de acceso de Analista de control interno  
+No se debe considerar la validación de trámite activo si el revisor de criterios técnicos asigna a un usuario diferente al de él ";0;18/3/2022 0:04;NO
+TYT-516;Sprint18;13;0;21;13;0;0;0;0;13;47;13;3;1;Se debe mantener los filtros aplicados y la información cargada previamente  ;0;18/3/2022 0:49;NO
+TYT-512;Sprint18;5;0;5;5;0;0;0;0;5;15;5;3;1;"Colocar un identificador en los campos obligatorios en la sección ""Detalle de mercancía""";0;21/3/2022 21:54;SI
+TYT-511;Sprint18;5;0;8;5;0;0;0;0;5;18;5;3;1;Columna de contador de Gestionados en el modal de asignaciones y asignar/reasigna;;21/3/2022 21:54;SI
+TYT-508;Sprint18;3;0;3;3;0;0;0;0;3;9;3;3;1;"Columna de contador de Gestionados en el modal de asignaciones y asignar/reasignar
+Este contador debe encerarse al finalizar la semana  
+La columna debe mostrarse antes del contador de ""Finalizados""  
+Se debe incluir tanto en asesor técnico como en revisor de criterios técnicos  ";0;18/3/2022 0:00;SI
+TYT-504;Sprint18;20;0;20;13;0;0;0;0;20;53;20;3;1;Tablero de gestión  Movimientos de las tarjetas;0;21/3/2022 21:54;NO
+TYT-503;Sprint18;5;0;13;5;0;0;0;0;5;23;5;3;1;Visualización de menú y accesos;0;21/3/2022 11:14;NO
+TYT-499;Sprint18;8;0;8;8;0;0;0;0;8;24;8;3;1;Redirección a la página de expirado cuando caduque el token;0;18/3/2022 0:02;SI
+TYT-491;Sprint18;1;0;1;1;0;0;0;0;1;3;1;3;1;"Identificador de colores de estados y filtros en bandeja de trámites
+Agregar identificador de colores en la barra inferior de la bandeja 
+Quitar buscador de clientes y agregar filtro de ""Todos"" y ""mis ""trámites""  
+Truncar la longitud del campo pedido y agregar tooltip para visualizar texto completo 
+Mantener fija la cabecera de la columna";0;8/3/2022 21:15;SI
+TYT-488;Sprint18;1;0;1;1;0;0;0;0;1;3;1;3;1;"Campo de ""Información adicional"" en observaciones y en el correo de asignación";0;8/3/2022 21:15;SI
+TYT-506;Sprint19;5;0;5;0;5;5;0;0;0;10;10;2;2;"Cálculos de columnas TSR, TE, TED en bandeja de asignación y tramites
+Cálculos de TE en la bandeja de trámites  
+Cálculos de  TSR, TE, TED en las bandejas de asignaci´ón 
+Corregir alineación de la columna de cliente en la bandeja de asignación, revisor  
+Mostrar el campo de tipo de trámite en bandeja de asignación, revisor ";1;1/4/2022 9:15;SI
+TYT-509;Sprint19;8;0;8;0;8;8;0;0;0;16;16;2;2;"Permitir quitar acción de SB en la etapa ASIGNADO tanto para asesor como para revisor
+Solo debe permitir quitar la acción si es el usuario asignado y si no tiene un trámite activo ";0;1/4/2022 9:15;SI
+TYT-513;Sprint19;5;0;5;0;5;5;0;0;0;10;10;2;2;Validar que no se pueda escoger más de un código con el mismo valor dentro de la sección de tarifas y reembolsos;0;1/4/2022 9:15;SI
+TYT-501;Sprint19;3;0;3;0;5;3;0;0;0;6;8;2;2;Incluir el nombre y status en el campo de contactos;1;25/3/2022 11:55;SI
+TYT-522;Sprint19;13;0;13;0;13;13;0;0;0;26;26;2;2;"Adjuntar documentos en el envío de respuesta de clasificación
+Se debe cargar los documentos que se van a adjuntar en el envío de respuesta  
+Debe considerar los que tengan el tipo de documento  ADJUNTOS DE ENVIO DE RESPUESTA 
+Se debe mostrar identificador en el modal de envío de respuesta con la cantidad de documentos con el que se va a generar el envío 
+Se debe mostrar alerta en el caso de que el peso de los documentos a adjuntar pasen el máximo de peso permitido  ";1;3/4/2022 23:42;SI
+TYT-524;Sprint19;8;0;5;0;5;8;0;0;0;13;13;2;2;"Acción (Ver requerimientos del cliente) en el documento trámite Se debe agregar la acción en el menú de acciones del documento del trámite  
+Crear modal y mostrar los requerimiento del cliente ";0;3/4/2022 23:42;SI
+TYT-525;Sprint19;13;0;13;0;13;13;0;0;0;26;26;2;2;Validaciones adicionales de los movimientos de la tarjeta del tablero de gestión;0;4/4/2022 13:06;SI
+TYT-526;Sprint19;8;0;8;0;8;8;0;0;0;16;16;2;2;"Modal de edición en la tarjeta del tablero de gestión
+Debe incluir los campos  
+
+No  pedido
+Tipo de requerimiento
+Categoría
+Fecha
+País de embarque
+Naturaleza del producto";0;31/3/2022 12:23;SI
+TYT-156;Sprint9;8;0;13;0;0;0;0;0;0;21;0;2;0;"Esta pestaña contara con la información que el cliente adjunta al momento de crear el requerimiento/tramite 
+
+Encabezado  
+
+# Requerimiento   # Tramite 
+Cliente 
+Sección de documentos adjuntos por el cliente  
+
+Contará con 4 columnas   
+
+Primera columna  Mostrará la lista de acuerdo a los documentos que sean obligatorios por tipo de trámite  En esta sección se podrá verificar todos los documentos adjuntos por el cliente  
+Segunda columna  Botón para visualizar el documento 
+Una vez que se aperture el documento contará con un botón para aceptar o rechazar el documento dentro del visor   
+Tercera Columna  Si el asesor rechaza ó aprueba el documento, el mismo deberá mostrar una equis o un visto en función de la acción   
+Cuarta columna  Contará con un botón para eliminar los documentos adicionales que ha adjuntado  Considerar que esta acción los eliminará de la lista, pero no del repositorio de documentos para este trámite  
+Sección de Documentos adjuntos por perfil de puesto  
+
+Contará con una sección para poder adicionar documentos que el analista, asesor o coordinar crea conveniente para esos trámites   
+Adicional se tendrá una forma de visualizar el gestor documental filtrado para el trámite especifico";1;28/10/2020 6:44;SI
+TYT-183;Sprint9;13;0;8;0;0;0;0;0;0;21;0;2;0;"PANEL INFORMATIVO 
+
+Este menú podrá ocultarse para poder ver más ampliamente la información de cada pestaña del módulo  
+
+Existirá una sección en la que se mostrarán los datos del trámite que fue creado por el cliente  
+
+Tipo de trámite 
+Estado/Etapa 
+fecha Importante 
+Numero de Pedido 
+país de origen 
+naturaleza del producto 
+Tiempo asignado 
+existirá otra sección en la que se muestren los siguientes datos  
+
+Fecha de creación de trámite 
+fecha de última actualización 
+ID de requerimiento asociado 
+ID de otros trámites asociados 
+ACCIONES HABILITADAS PARA EL ASESOR TÉCNICO 
+
+Derivar etapa   Permitirá que el trámite se mueva a una siguiente etapa  
+Espera de documentos (Si necesita solicitar documentación)  
+Etapa de revisión (Si la clasificación se realizó con los documentos que se adjuntaron desde la creación) 
+Para escoger la etapa a la que se va a mover se elige en una ventana emergente   
+
+Solicitar documentos   
+Para los documentos que fueron rechazados, pero no eliminados de la Sección de documentos adjuntos por el cliente de la pestaña análisis, se deberá generar automáticamente una solicitud de los mismos y alimentar la bandeja de notificaciones del cliente  (cubierto en la acción de rechazar) 
+Adicional me permitirá seleccionar en una pestaña emergente más documentos que el asesor considere necesario para sus análisis de la lista general de documentos para asesoría técnica  Los podrá elegir con un check y colocar un comentario u observación adicional  
+ 
+
+Documentación Completa  Esta acción se utilizará para poder marcar el momento preciso en el que se han completado todos los documentos para la gestión del trámite  
+Enviar respuesta  Esto generará el documento de respuesta de clasificación que se enviará al requirente del trámite y quedará almacenada en el gestor de documentos   Esta acción la podrá generar tanto el asesor como el revisor dependiendo del caso  
+Reanudar  Esta acción es para comenzar a medir el tiempo de la revisión de documentos que el asesor revise de algún trámite que está en pendiente  
+Time Off  Acción para inhabilitar al asesor para futuras asignaciones automáticas  
+Errores  En esta acción se podrán visualizar los errores que pueden marcar los asesores técnicos  Estos errores se podrán registrar desde una ventana emergente con el detalle específico   ";3;28/10/2020 6:44;SI
+TYT-155;Sprint9;5;0;8;0;0;0;0;0;0;13;0;2;0;"Este será el primer pantallazo que verá el Asesor al loggearse
+
+
+
+
+
+Columnas 
+
+Nuevo   Aparecerá en esta columna un nuevo trámite una vez que ha sido asignado al asesor
+
+en proceso   el asesor podrá mover a la columna en proceso desde la columna nuevo, cada trámite que empiece a atender   Desde el momento en que el asesor arrastre un trámite a esta columna, empezará a contabilizar el tiempo de gestión del asesor   En el caso de Asesoría Técnica la columna en proceso siempre sería 0 o 1 por el modelo de asignación que siguen, en otros procesos esto sí podria variar a números mayores 
+
+
+
+Pendientes   en pendientes se mostrarán los trámites que se encuentran en Stand By o en espera de documentos 
+
+En la parte superior de cada trámite se mostrará el estado de los mismos 
+
+a tiempo
+fuera de tiempo
+en los casos en los que se pase de la fecha importante se mostrará como fuera de tiempo y el encabezado cambiará a color rojo 
+en la parte baja de cada trámite se mostrarán los siguientes indicadores 
+
+Número de notificaciones pendientes por leer relacionadas al trámite
+número de documentos aprobados sobre documentos pendientes
+número de documentos adjuntados por el asesor
+Fecha importante de acuerdo al tipo del trámite
+en la columna finalizado se tendrá un indicador del tiempo en horas y minutos que tomó la gestión del tramite considerando unicamente horas activas del usuario (horario laboral)
+
+
+al dar doble click sobre un trámite, visualizará la pantalla de análisis del trámite";1;15/9/2020 8:45;SI
+TYT-198;Sprint9;13;0;8;0;0;0;0;0;0;21;0;2;0;"Esta sección permitirá visualizar la información de servicios asociados, como ejemplo  
+
+Importaciones  
+
+Numero de orden  
+Etapa 
+Coordinador de Aduana asociado 
+Oficial de cuenta  
+Analista Documental  
+Fecha de llegada 
+Numero de refrendo  
+Papeles previos  
+
+Numero de orden previas 
+Cantidad de solicitudes generadas 
+Etapa de cada solicitud dentro del sistema  
+Estado en la Entidad 
+Coordinador de previas  
+Oficial de previas 
+Analista documental de previas 
+Todo esto de manera informativa y con la opción de poder dirigirse al documento si así es requerido ";1;19/11/2020 23:31;NO
+TYT-199;Sprint9;5;0;8;0;0;0;0;0;0;13;0;2;0;"En esta sección el asesor técnico podrá  
+
+Llenar la información de los ítems  
+Editar las restricciones por subpartidas  (estrella)
+Editar los requisitos por restricciones  (estrella)
+Buscar ítems en base de datos mediante los filtros/buscadores predictivos  (estrella)
+Guardar en nueva base de partidas el item seleccionado  (estrella)
+El módulo está conformado por dos bloques 
+
+
+
+SECCIÓN A  En esquema general tendrá  
+
+un botón para agregar una fila más de ítems  
+un botón de guardar
+Un botón para exportar la tabla a excel
+
+
+SECCIÓN B   
+
+Buscadores/Filtros 
+
+Código/Modelo 
+Descripción comercial 
+Marca 
+Subpartida 
+Columnas de la tabla 
+
+Check para seleccionar ítems 
+Código único tyt (Código aleatorio generado por el sistema) 
+Código/Modelo  
+Descripción Comercial  
+Marca  
+Partida arancelaría 
+TNAN 
+AdValorem 
+Arancel Específico 
+S  And  Franja de precio 
+ICE 
+IVA 
+Restricciones  
+Requisitos 
+Botones de Acción   
+Editar   En esta sección deberá permitirme modificar las restricciones de la subpartida y los requisitos para cada una de estas mediante una ventana emergente   
+Eliminar ítems ó registro 
+Observaciones adicionales  
+ (estrella)Se dará alcance en el módulo de base de partidas arancelarias ";;15/9/2020 8:45;SI
+TYT-208;Sprint9;8;0;13;0;0;0;0;0;0;21;0;2;0;Esta pestaña  contendrá la historia de cambio de etapas y registros más relevante por procesos como la fecha cuando se coloca documentación completa  En información muy similar a lo que actualmente muestra la pestaña historial de dobra ;1;15/9/2020 8:45;SI
+TYT-200;Sprint9;8;0;8;0;0;0;0;0;0;16;0;2;0;Esta sección es reflejará lo que ya consta en el módulo de notificaciones del cliente, pero filtrados para la orden en especifico ;1;19/11/2020 23:31;NO
+TYT-209;Sprint9;13;0;5;0;0;0;0;0;0;18;0;2;0;"Esta sección se mostrarán los servicios y reembolsos para el trámite en aperturado en el documento  (Asesoría actualmente no genera ninguno de los dos) 
+
+Permitirá colocar un honorario o quitarlo  
+
+Para generar un honorario nuevo se mostrará una sección para elegir el rubro y colocar un pequeño resumen de la actividad para este honorario 
+
+Adicional deberá permitir generar una notificación al equipo comercial en caso de requerir se registre un nuevo honorario ";1;24/11/2020 14:58;SI
+TYT-207;;5;0;8;0;0;0;0;0;0;13;0;2;0;En esta sección saldrán todas las observaciones que corresponde a este trámite, incluidas las observaciones generadas por eventos automáticos, notificaciones ó acciones propias de la operación   ;1;"	24/nov/20 2:58 PM";SI
+TYT-210;;13;0;13;0;0;0;0;0;0;26;0;2;0;"Esta sección aplica para una comunicación informal interna   
+
+Debe permitir   
+
+Agregar texto e imágenes y mencionar a algún usuario  
+Visualizar el registro de los comentarios generados   
+Comentar dentro del texto ingresado, visualizar fecha y hora del registro, eliminar comentario   ";1;"	23/dic/20 12:00 PM";SI
